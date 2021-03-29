@@ -1,0 +1,30 @@
+{
+  "recommendations": [
+    "kamikillerto.vscode-colorize",
+    "jinsihou.diff-tool",
+    "mrmlnc.vscode-duplicate",
+    "janisdd.vscode-edit-csv",
+    "dbaeumer.vscode-eslint",
+    "sleistner.vscode-fileutils",
+    "eamodio.gitlens",
+    "ms-toolsai.jupyter",
+    "christian-kohler.path-intellisense",
+    "ms-vscode.powershell",
+    "ms-python.python",
+    "mechatroner.rainbow-csv",
+    "rebornix.ruby",
+    "tomoki1207.selectline-statusbar",
+    "henriiik.vscode-sort",
+    "shardulm94.trailing-spaces",
+    "dakara.transformer",
+    "formulahendry.auto-rename-tag",
+    "wingrunr21.vscode-ruby",
+    "slevesque.vscode-autohotkey",
+    "aaron-bond.better-comments",
+    "coenraads.bracket-pair-colorizer-2",
+    "sidneys1.gitconfig",
+    "emilast.logfilehighlighter",
+    "pkief.material-icon-theme",
+    "vscode-icons-team.vscode-icons"
+  ]
+}
